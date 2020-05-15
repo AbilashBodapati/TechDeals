@@ -1,7 +1,8 @@
 # TechDeals
 
-Python Projects to work on this summer
-    - Scape popular tech sites to check for nice tech deals and host on a website.    
-    - Automatically move files and rename files.
-    - Open Youtube when there is a new video from a youtuber.
-    - Notification of stock prices
+Scraps the best deals from different tech websites to get me dynamic 
+information of PC components first. Then maybe scale up to different new tech.
+
+I will provide a budget and the script should scrap the relavent 
+information.
+
