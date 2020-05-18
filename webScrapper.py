@@ -24,7 +24,9 @@ uClient.close()
 page_soup = soup(page_html, "html.parser")
 # Grabs all the products 
 products_info = page_soup.findAll("div", {"class": "pDescription compressedNormal2"})
-# CPU highest Rated
-cpuProduct = products_info[0].div.h2.a.text
 
-print(cpuProduct)
+for product in products_info:
+    # CPU highest Rated
+    # cpuProduct = products_info[0].div.h2.a.text
+    cpuProduct = product.div.h2.a.text
+    print(cpuProduct)
