@@ -22,11 +22,58 @@ uClient.close()
 
 # HTML parsing
 page_soup = soup(page_html, "html.parser")
-# Grabs all the products 
-products_info = page_soup.findAll("div", {"class": "pDescription compressedNormal2"})
 
-for product in products_info:
-    # CPU highest Rated
-    # cpuProduct = products_info[0].div.h2.a.text
-    cpuProduct = product.div.h2.a.text
-    print(cpuProduct)
+# Create a Dictionary of the product list
+totalProductList = []
+
+###-----FORMATING DATA------
+## Product name
+## Product Price
+## Product Saved Price
+## Product Image
+## Product Sortby
+'''
+    JSON format:
+    {
+        'product name': <String>,
+        'product price': <Integer>,
+        'product saved price': <Integer>,
+        'product image url': <String>,
+        'product sort group': <String>,
+    }
+
+'''
+
+# Grabs product name 
+productNames_info = page_soup.findAll("div", {"class": "details"})
+productName = productNames_info[0].div.h2.a.text
+
+# Grabs product price
+productPrice_info = page_soup.findAll("span", {"itemprop": "price"})
+productPrice = productPrice_info[0].text.split('$')[1]
+
+# Grabs product saved price
+productSavedPrice_info = page_soup.findAll("span", {"class": "savings"})
+productSavedPrice = productSavedPrice_info[0].text.split('$')[1]
+
+# Grabs product image url
+productImage_info = page_soup.findAll("a", {"class": "image"})
+productImage = productImage_info[0].find("img")['src']
+
+# Grabs product group
+productGroup_info = page_soup.findAll("div", {"class": "pre-dropdown Sort boosted"})
+productGroup = productGroup_info[0].div.button.span.text
+
+
+
+totalProductList = {
+    "Product 1": {
+        'Product name': productName,
+        'Product price': productPrice,
+        'Product saved price': productSavedPrice,
+        'Product image url': productImage,
+        'Product sort group': productGroup
+    }
+}
+
+print(totalProductList)
