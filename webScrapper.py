@@ -16,7 +16,7 @@ microcenter_url = ['https://www.microcenter.com/search/search_results.aspx?N=429
 
 
 # Create a dictionary of the product dictionaries
-totalProductList = {}
+totalProductList = []
 
 for url in microcenter_url:
     # query the website and return the html to the variable 'page'
@@ -78,32 +78,22 @@ for url in microcenter_url:
         productIter = '{} Product {}'.format(productGroup, i+1)
         # Add the product in to the list
         productDict = {
-            productIter: {
-                'Product name': productName,
-                'Product price': productPrice,
-                'Product saved price': productSavedPrice,
-                'Product image url': productImage,
-                'Product sort group': productGroup
-            }
+            'Productname': productName,
+            'Productprice': productPrice,
+            'Productsavedprice': productSavedPrice,
+            'Productimageurl': productImage,
+            'Productsortgroup': productGroup
         }
 
         # Append the created dictionary to the total list
-        totalProductList.update(productDict)
-
-    print(totalProductList)
-    print("")
-
-
-
-
-
-
+        totalProductList.append(productDict)
 
 
 # Creating a JSON file
 jsonFormatedProductList = json.dumps(totalProductList, indent=4)
 
+print(jsonFormatedProductList)
+
 # Writing to sample.json 
-with open("products.json", "w") as outfile: 
+with open("products.txt", "w") as outfile: 
     outfile.write(jsonFormatedProductList)
- 
