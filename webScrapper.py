@@ -95,5 +95,5 @@ jsonFormatedProductList = json.dumps(totalProductList, indent=4)
 print(jsonFormatedProductList)
 
 # Writing to sample.json 
-with open("products.txt", "w") as outfile: 
+with open("products.json", "w") as outfile: 
     outfile.write(jsonFormatedProductList)
