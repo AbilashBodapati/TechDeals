@@ -1,212 +1,72 @@
 [
     {
-        "Productname": "Intel Core i9-10920X Cascade Lake 3.5 GHz LGA 2066 Boxed Processor",
-        "Productprice": "699.99",
-        "Productsavedprice": "150.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0618408_068767.jpg",
-        "Productsortgroup": "Highest Rated"
+        "productName": "Intel Pentium Gold G5400 Coffee Lake 3.7GHz Dual-Core LGA 1151 Boxed Processor",
+        "price": 49.99,
+        "saving": 50.0,
+        "imageUrl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0508541_783878.jpg",
+        "productGroup": "Highest Rated"
     },
     {
-        "Productname": "Intel Pentium Gold G5400 Coffee Lake 3.7GHz Dual-Core LGA 1151 Boxed Processor",
-        "Productprice": "49.99",
-        "Productsavedprice": "50.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0508541_783878.jpg",
-        "Productsortgroup": "Highest Rated"
+        "productName": "Intel Core i9-10920X Cascade Lake 3.5 GHz LGA 2066 Boxed Processor",
+        "price": 699.99,
+        "saving": 150.0,
+        "imageUrl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0618408_068767.jpg",
+        "productGroup": "Highest Rated"
     },
     {
-        "Productname": "Intel Core i7-9700K Coffee Lake 3.6GHz Eight-Core LGA 1151 Boxed Processor",
-        "Productprice": "359.99",
-        "Productsavedprice": "140.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0512484_831438.jpg",
-        "Productsortgroup": "Highest Rated"
+        "productName": "Intel Core i7-9700K Coffee Lake 3.6GHz Eight-Core LGA 1151 Boxed Processor",
+        "price": 359.99,
+        "saving": 140.0,
+        "imageUrl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0512484_831438.jpg",
+        "productGroup": "Highest Rated"
     },
     {
-        "Productname": "Intel Core i9-9900K Coffee Lake 3.6GHz Eight-Core LGA 1151 Boxed Processor",
-        "Productprice": "499.99",
-        "Productsavedprice": "200.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0512483_831362.jpg",
-        "Productsortgroup": "Highest Rated"
+        "productName": "Intel Core i9-9900K Coffee Lake 3.6GHz Eight-Core LGA 1151 Boxed Processor",
+        "price": 499.99,
+        "saving": 200.0,
+        "imageUrl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0512483_831362.jpg",
+        "productGroup": "Highest Rated"
     },
     {
-        "Productname": "Intel Core i5-9600K Coffee Lake 3.7GHz Six-Core LGA 1151 Boxed Processor",
-        "Productprice": "189.99",
-        "Productsavedprice": "110.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0512485_831370.jpg",
-        "Productsortgroup": "Highest Rated"
+        "productName": "Intel Core i5-9600K Coffee Lake 3.7GHz Six-Core LGA 1151 Boxed Processor",
+        "price": 189.99,
+        "saving": 110.0,
+        "imageUrl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0512485_831370.jpg",
+        "productGroup": "Highest Rated"
     },
     {
-        "Productname": "Intel Core i3-9100F Coffee Lake 3.6GHz Quad-Core LGA 1151 Boxed Processor",
-        "Productprice": "72.99",
-        "Productsavedprice": "67.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0606587_961276.jpg",
-        "Productsortgroup": "Highest Rated"
+        "productName": "Intel Core i3-9100F Coffee Lake 3.6GHz Quad-Core LGA 1151 Boxed Processor",
+        "price": 72.99,
+        "saving": 67.0,
+        "imageUrl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0606587_961276.jpg",
+        "productGroup": "Highest Rated"
     },
     {
-        "Productname": "Intel Core i5-9400F Coffee Lake 2.9GHz Six-Core LGA 1151 Boxed Processor",
-        "Productprice": "119.99",
-        "Productsavedprice": "80.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0602028_900324.jpg",
-        "Productsortgroup": "Highest Rated"
+        "productName": "Intel Core i5-9400F Coffee Lake 2.9GHz Six-Core LGA 1151 Boxed Processor",
+        "price": 119.99,
+        "saving": 80.0,
+        "imageUrl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0602028_900324.jpg",
+        "productGroup": "Highest Rated"
     },
     {
-        "Productname": "Intel Core i5-9400 Coffee Lake 2.9GHz Six-Core LGA 1151 Boxed Processor",
-        "Productprice": "159.99",
-        "Productsavedprice": "90.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0602029_907964.jpg",
-        "Productsortgroup": "Highest Rated"
+        "productName": "Intel Core i5-9400 Coffee Lake 2.9GHz Six-Core LGA 1151 Boxed Processor",
+        "price": 159.99,
+        "saving": 90.0,
+        "imageUrl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0602029_907964.jpg",
+        "productGroup": "Highest Rated"
     },
     {
-        "Productname": "Intel Core i9-10900X Cascade Lake 3.7GHz Ten-Core LGA 2066 Boxed Processor",
-        "Productprice": "599.99",
-        "Productsavedprice": "100.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0618409_068759.jpg",
-        "Productsortgroup": "Highest Rated"
+        "productName": "Intel Core i9-10900X Cascade Lake 3.7GHz Ten-Core LGA 2066 Boxed Processor",
+        "price": 599.99,
+        "saving": 100.0,
+        "imageUrl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0618409_068759.jpg",
+        "productGroup": "Highest Rated"
     },
     {
-        "Productname": "Intel Core i9-10940X Cascade Lake 3.3GHz LGA 2066 Boxed Processor",
-        "Productprice": "799.99",
-        "Productsavedprice": "200.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0618407_068775.jpg",
-        "Productsortgroup": "Highest Rated"
-    },
-    {
-        "Productname": "Intel Core i7-9700K Coffee Lake 3.6GHz Eight-Core LGA 1151 Boxed Processor",
-        "Productprice": "359.99",
-        "Productsavedprice": "140.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0512484_831438.jpg",
-        "Productsortgroup": "Most Popular"
-    },
-    {
-        "Productname": "Intel Core i5-9600K Coffee Lake 3.7GHz Six-Core LGA 1151 Boxed Processor",
-        "Productprice": "189.99",
-        "Productsavedprice": "110.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0512485_831370.jpg",
-        "Productsortgroup": "Most Popular"
-    },
-    {
-        "Productname": "Intel Core i9-9900K Coffee Lake 3.6GHz Eight-Core LGA 1151 Boxed Processor",
-        "Productprice": "499.99",
-        "Productsavedprice": "200.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0512483_831362.jpg",
-        "Productsortgroup": "Most Popular"
-    },
-    {
-        "Productname": "Intel Core i5-9400F Coffee Lake 2.9GHz Six-Core LGA 1151 Boxed Processor",
-        "Productprice": "119.99",
-        "Productsavedprice": "80.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0602028_900324.jpg",
-        "Productsortgroup": "Most Popular"
-    },
-    {
-        "Productname": "Intel Core i3-9100F Coffee Lake 3.6GHz Quad-Core LGA 1151 Boxed Processor",
-        "Productprice": "72.99",
-        "Productsavedprice": "67.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0606587_961276.jpg",
-        "Productsortgroup": "Most Popular"
-    },
-    {
-        "Productname": "Intel Core i5-9400 Coffee Lake 2.9GHz Six-Core LGA 1151 Boxed Processor",
-        "Productprice": "159.99",
-        "Productsavedprice": "90.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0602029_907964.jpg",
-        "Productsortgroup": "Most Popular"
-    },
-    {
-        "Productname": "Intel Pentium Gold G5400 Coffee Lake 3.7GHz Dual-Core LGA 1151 Boxed Processor",
-        "Productprice": "49.99",
-        "Productsavedprice": "50.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0508541_783878.jpg",
-        "Productsortgroup": "Most Popular"
-    },
-    {
-        "Productname": "Intel Core i9-10900X Cascade Lake 3.7GHz Ten-Core LGA 2066 Boxed Processor",
-        "Productprice": "599.99",
-        "Productsavedprice": "100.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0618409_068759.jpg",
-        "Productsortgroup": "Most Popular"
-    },
-    {
-        "Productname": "Intel Core i9-10920X Cascade Lake 3.5 GHz LGA 2066 Boxed Processor",
-        "Productprice": "699.99",
-        "Productsavedprice": "150.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0618408_068767.jpg",
-        "Productsortgroup": "Most Popular"
-    },
-    {
-        "Productname": "Intel Core i9-10940X Cascade Lake 3.3GHz LGA 2066 Boxed Processor",
-        "Productprice": "799.99",
-        "Productsavedprice": "200.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0618407_068775.jpg",
-        "Productsortgroup": "Most Popular"
-    },
-    {
-        "Productname": "Intel Core i9-10940X Cascade Lake 3.3GHz LGA 2066 Boxed Processor",
-        "Productprice": "799.99",
-        "Productsavedprice": "200.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0618407_068775.jpg",
-        "Productsortgroup": "Highest Price"
-    },
-    {
-        "Productname": "Intel Core i9-10920X Cascade Lake 3.5 GHz LGA 2066 Boxed Processor",
-        "Productprice": "699.99",
-        "Productsavedprice": "150.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0618408_068767.jpg",
-        "Productsortgroup": "Highest Price"
-    },
-    {
-        "Productname": "Intel Core i9-10900X Cascade Lake 3.7GHz Ten-Core LGA 2066 Boxed Processor",
-        "Productprice": "599.99",
-        "Productsavedprice": "100.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0618409_068759.jpg",
-        "Productsortgroup": "Highest Price"
-    },
-    {
-        "Productname": "Intel Core i9-9900K Coffee Lake 3.6GHz Eight-Core LGA 1151 Boxed Processor",
-        "Productprice": "499.99",
-        "Productsavedprice": "200.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0512483_831362.jpg",
-        "Productsortgroup": "Highest Price"
-    },
-    {
-        "Productname": "Intel Core i7-9700K Coffee Lake 3.6GHz Eight-Core LGA 1151 Boxed Processor",
-        "Productprice": "359.99",
-        "Productsavedprice": "140.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0512484_831438.jpg",
-        "Productsortgroup": "Highest Price"
-    },
-    {
-        "Productname": "Intel Core i5-9600K Coffee Lake 3.7GHz Six-Core LGA 1151 Boxed Processor",
-        "Productprice": "189.99",
-        "Productsavedprice": "110.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0512485_831370.jpg",
-        "Productsortgroup": "Highest Price"
-    },
-    {
-        "Productname": "Intel Core i5-9400 Coffee Lake 2.9GHz Six-Core LGA 1151 Boxed Processor",
-        "Productprice": "159.99",
-        "Productsavedprice": "90.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0602029_907964.jpg",
-        "Productsortgroup": "Highest Price"
-    },
-    {
-        "Productname": "Intel Core i5-9400F Coffee Lake 2.9GHz Six-Core LGA 1151 Boxed Processor",
-        "Productprice": "119.99",
-        "Productsavedprice": "80.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0602028_900324.jpg",
-        "Productsortgroup": "Highest Price"
-    },
-    {
-        "Productname": "Intel Core i3-9100F Coffee Lake 3.6GHz Quad-Core LGA 1151 Boxed Processor",
-        "Productprice": "72.99",
-        "Productsavedprice": "67.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0606587_961276.jpg",
-        "Productsortgroup": "Highest Price"
-    },
-    {
-        "Productname": "Intel Pentium Gold G5400 Coffee Lake 3.7GHz Dual-Core LGA 1151 Boxed Processor",
-        "Productprice": "49.99",
-        "Productsavedprice": "50.00",
-        "Productimageurl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0508541_783878.jpg",
-        "Productsortgroup": "Highest Price"
+        "productName": "Intel Core i9-10940X Cascade Lake 3.3GHz LGA 2066 Boxed Processor",
+        "price": 799.99,
+        "saving": 200.0,
+        "imageUrl": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0618407_068775.jpg",
+        "productGroup": "Highest Rated"
     }
 ]

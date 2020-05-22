@@ -78,22 +78,36 @@ for url in microcenter_url:
         productIter = '{} Product {}'.format(productGroup, i+1)
         # Add the product in to the list
         productDict = {
-            'Productname': productName,
-            'Productprice': productPrice,
-            'Productsavedprice': productSavedPrice,
-            'Productimageurl': productImage,
-            'Productsortgroup': productGroup
+            'productName': productName,
+            'price': float(productPrice),
+            'saving': float(productSavedPrice),
+            'imageUrl': productImage,
+            'productGroup': productGroup
         }
 
-        # Append the created dictionary to the total list
-        totalProductList.append(productDict)
+        contains = False
+        # Check if there is an existing product in the list to display.
+        for productInfo in totalProductList:
+            if ((productDict.get('productName') != productInfo.get('productName')) or
+            (productDict.get('price') != productInfo.get('price')) or
+            (productDict.get('saving') != productInfo.get('saving')) or
+            (productDict.get('imageUrl') != productInfo.get('imageUrl'))):
+                # Append the created dictionary to the total list
+                totalProductList.append(productDict)
 
+        if contains == False:
+            # Append the created dictionary to the total list
+            totalProductList.append(productDict)
 
 # Creating a JSON file
 jsonFormatedProductList = json.dumps(totalProductList, indent=4)
 
-print(jsonFormatedProductList)
+print(len(totalProductList))
 
-# Writing to sample.json 
+# Writing to products2.json 
+with open("../AngularIntroProject/src/api/products/products2.json", "w") as outfile: 
+    outfile.write(jsonFormatedProductList)
+
+# Writing to products2.json 
 with open("products.json", "w") as outfile: 
     outfile.write(jsonFormatedProductList)
